@@ -1,4 +1,4 @@
-# Sultan Badri
+# Hi there 👋
 I'm looking to expand my knowledge in web development. I'm focusing on mastering frontend development, and I'm currently learning React. Pleasure to meet you!
 
 ## 💻 Languages
