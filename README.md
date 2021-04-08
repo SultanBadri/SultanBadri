@@ -1,7 +1,7 @@
 ## Hi, I'm Sultan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" />
 I'm looking to expand my knowledge in web development. I'm focusing on mastering frontend development, and I'm currently learning React. Pleasure to meet you!
 
-- ✍ You can find my projects here [portfolio](https://sultanbadri.github.io/portfolio/).
+- ✍ You can find my projects here [portfolio](https://sultanbadri.github.io/).
 - 🔭 I’m currently working on The Odin Project's full stack JavaScript curriculum.
 - 🌱 I’m currently learning React and Python.
 - 💬 Ask me about anything.
