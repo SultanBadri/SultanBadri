@@ -18,4 +18,4 @@ I'm looking to expand my knowledge in web development. I'm focusing on mastering
 <a href="https://www.linkedin.com/in/sultanbadri/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a> 
 
 ### GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SultanBadri&hide=contribs&theme=dracula)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SultanBadri&theme=dracula)  
