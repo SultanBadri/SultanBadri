@@ -1,10 +1,10 @@
 ## Hi, I'm Sultan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" />
-I'm looking to expand my knowledge in web development. I'm experienced in frontend development and currently focused on learning full stack development. Pleasure to meet you!
+I'm looking to expand my knowledge in `Web Development` and `Software Engineering`. I'm experienced in `Front-end Development` and currently focused on learning `Full-stack Development`. Pleasure to meet you!
 
 - ✍ You can find my projects on my [portfolio](https://sultanbadri.github.io/).
-- 🔭 I’m currently working through The Odin Project's Full Stack JavaScript Curriculum.
-- 🌱 I’m currently learning Node.js and Express.
-- 💬 Ask me about anything.
+- 🔭 I’m currently working through `The Odin Project's Full Stack JavaScript Curriculum`.
+- 🌱 I’m currently learning `Node.js` and `Express`.
+- 💬 Ask me anything.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm currently an intermediate Spanish speaker. 
 
