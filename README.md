@@ -5,7 +5,6 @@ I'm looking to expand my knowledge in `Web Development` and `Software Engineerin
 - 🔭 I’m currently working through `The Odin Project's Full Stack JavaScript Curriculum`.
 - 🌱 I’m currently learning `Node.js` and `Express`.
 - 💬 Ask me anything.
-- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm currently an intermediate Spanish speaker. 
 
 ### 💻 Languages
