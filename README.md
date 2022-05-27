@@ -1,4 +1,7 @@
 ## Hi, I'm Sultan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" />
+
+[![Sultan Badri Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultanbadri/)
+
 I'm looking to expand my knowledge in `Web Development` and `Software Engineering`. I'm experienced in `Front-end Development` and currently focused on learning `Full-stack Development`. Pleasure to meet you!
 
 - ✍ You can find my projects on my [portfolio](https://sultanbadri.github.io/).
@@ -15,9 +18,6 @@ I'm looking to expand my knowledge in `Web Development` and `Software Engineerin
 
 ### 🔧 Tools and technologies
 <img src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" alt="git" width="40" height="40" /> <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="webpack" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="heroku" width="40" height="40" /> <img src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png" alt="figma" width="40" height="40" />
-
-### 📱 Connect with me
-<a href="https://www.linkedin.com/in/sultanbadri/"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a> 
 
 ### GitHub stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SultanBadri&show_icons=true&theme=react&&hide_border=true)  
