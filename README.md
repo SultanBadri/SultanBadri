@@ -2,22 +2,40 @@
 
 [![Sultan Badri Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultanbadri/)
 
-I'm looking to expand my knowledge in `Web Development` and `Software Engineering`. I'm experienced in `Front-end Development` and currently focused on learning `Full-stack Development`. Pleasure to meet you!
+I'm looking to expand my knowledge in `Web Development` and `Software Engineering`. I'm experienced in both `Front-end Development` and `Full-stack Development`. Pleasure to meet you!
 
 - ✍ You can find my projects on my [portfolio](https://sultanbadri.github.io/).
-- 🔭 I’m currently working through `The Odin Project's Full Stack JavaScript Curriculum`.
-- 🌱 I’m currently learning `Node.js` and `Express`.
-- 💬 Ask me anything.
+- 🔭 I’m currently working on mastering the `MERN` stack.
+- 🌱 I’m learning new tech related to the web.
+- 💬 Ask me anything!
 - ⚡ Fun fact: I'm currently an intermediate Spanish speaker. 
 
+
 ### 💻 Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" width="30" height="40"/> <img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" alt="SQL" width="30" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🧰 Frameworks/Libraries/Databases
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="node.js" width="40" height="40"/> <img src="https://symbols.getvecta.com/stencil_79/88_expressjs-icon.54bb6035d3.png" alt="express.js" width="40" height="40"/> <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-mongodb/events/mon.png" alt="mongodb" width="40" height="40" /> <img src="https://miro.medium.com/max/512/1*3whjFY1CJUag-a3abRqyQA.png" alt="jest" width="40" height="40" /> <img src="https://cdn.iconscout.com/icon/free/png-256/jquery-7-1175152.png" alt="jquery" width="40" height="40" /> <img src="https://jarcasting.com/img/org_logos/t/a/tailwindlabs.png" alt="tailwind" width="40" height="40"/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🔧 Tools and technologies
-<img src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" alt="git" width="40" height="40" /> <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="webpack" width="40" height="40" /> <img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="heroku" width="40" height="40" /> <img src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png" alt="figma" width="40" height="40" />
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ### GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SultanBadri&show_icons=true&theme=react&&hide_border=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SultanBadri&show_icons=true&theme=react&&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SultanBadri&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
