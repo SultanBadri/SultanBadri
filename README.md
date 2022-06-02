@@ -38,4 +38,4 @@ I'm looking to expand my knowledge in `Web Development` and `Software Engineerin
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ### GitHub stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SultanBadri&show_icons=true&theme=react&&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SultanBadri&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SultanBadri&show_icons=true&theme=react&&hide_border=true) 
