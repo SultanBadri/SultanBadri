@@ -14,7 +14,7 @@ I'm looking to expand my knowledge in `Web Development` and `Software Engineerin
 [![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,go,r,html,css)](https://skillicons.dev)
 
 ### 🧰 Frameworks/Libraries/Databases
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,graphql,svelte,jest,redux,jquery,sass,styledcomponents,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,graphql,angular,svelte,jest,redux,jquery,sass,styledcomponents,tailwind)](https://skillicons.dev)
 
 ### 🔧 Tools
 [![My Skills](https://skillicons.dev/icons?i=git,webpack,vite,heroku,figma)](https://skillicons.dev)
