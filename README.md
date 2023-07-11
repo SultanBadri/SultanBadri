@@ -17,7 +17,7 @@ I'm looking to expand my knowledge in `Web Development` and `Software Engineerin
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,graphql,angular,vue,svelte,jest,redux,jquery,sass)](https://skillicons.dev)
 
 ### 🔧 Tools
-[![My Skills](https://skillicons.dev/icons?i=git,webpack,vite,heroku,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,webpack,docker)](https://skillicons.dev)
 
 ### GitHub stats
 ![GitHub stats](https://github-readme-stats.zohan.tech/api?username=SultanBadri&show_icons=true&theme=react&&hide_border=true)
