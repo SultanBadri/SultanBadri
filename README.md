@@ -11,7 +11,7 @@ I'm looking to expand my knowledge in `Web Development` and `Software Engineerin
 [![Sultan Badri Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sultanbadri/)
 
 ### 💻 Languages
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,go,rust,r,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,go,r,html,css)](https://skillicons.dev)
 
 ### 🧰 Frameworks/Libraries/Databases
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,graphql,angular,vue,svelte,jest,redux,jquery,sass)](https://skillicons.dev)
