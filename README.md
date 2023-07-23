@@ -2,7 +2,7 @@
 
 * 🌱 I’m learning new technologies and tools
 * ⚡ Fun fact: I'm currently an intermediate Spanish speaker
-* 🚀 Check out my [portfolio website](https://sultanbadri.vercel.app/)
+* 🚀 Check out my [website](https://sultanbadri.vercel.app/)
 * 💼 Work experience: [LinkedIn](https://www.linkedin.com/in/sultanbadri/)
 
 ### 💻 Languages
