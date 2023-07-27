@@ -6,10 +6,10 @@
 * 💼 Work experience: [LinkedIn](https://www.linkedin.com/in/sultanbadri/)
 
 ### 💻 Languages
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,go,r,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,go,html,css)](https://skillicons.dev)
 
 ### 🧰 Frameworks/Libraries/Databases
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,graphql,angular,vue,svelte,jest,redux,jquery,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,graphql,angular,vue,svelte,jest,redux,sass)](https://skillicons.dev)
 
 ### 🔧 Tools
 [![My Skills](https://skillicons.dev/icons?i=git,webpack,docker)](https://skillicons.dev)
