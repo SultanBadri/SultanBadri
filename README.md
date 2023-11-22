@@ -1,7 +1,7 @@
 ## Hey! I'm Sultan 👋
 
 * 🌱 I’m learning new technologies and tools
-* ⚡ Fun fact: I'm currently an intermediate Spanish speaker
+* ⚡ Fun fact: I like learning (human) languages
 * 🚀 Check out my [website](https://sultanbadri.vercel.app/)
 * 💼 Work experience: [LinkedIn](https://www.linkedin.com/in/sultanbadri/)
 
