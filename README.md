@@ -1,4 +1,4 @@
-### Hi! I'm Sultan 👋
+### Hi, I'm Sultan 👋
 
 Software Engineer based in the Bay Area.
 
