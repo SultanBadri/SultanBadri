@@ -1,9 +1,8 @@
 ### Hi, I'm Sultan 👋
 
-Software Engineer based in the Bay Area.
+I'm a **Software Engineer** based in the SF Bay Area.
+Currently building scalable backend services and modern UI components at **Dexcom**.
 
-* 👀 I’m interested in ...
-* 🌱 I’m currently learning ...
-* 💞️ I’m looking to collaborate on ...
-* 📫 You can reach me on LinkedIn
-* ⚡ Fun fact: I like learning (human) languages
+- 💻 **Current Tech Stack:** TypeScript, React/TanStack, Kotlin, Spring Boot
+- ⚡ **Fun Fact**: I like learning (human) languages
+- 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/sultanbadri)
